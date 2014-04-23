@@ -1,5 +1,5 @@
 package Object;
-
+//
 public class Field {
 	static int[][] field = new int[3][3];
 	/*
