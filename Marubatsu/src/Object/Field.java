@@ -3,7 +3,7 @@ package Object;
 public class Field {
 	static int[][] field = new int[3][3];
 	/*
-	 *コンストラクタ:初期化
+	 * Field繧貞�晄悄蛹�
 	 */
 	Field(){
 		for(int i=0;i<=2;i++){

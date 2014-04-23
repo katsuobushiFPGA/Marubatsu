@@ -1,10 +1,12 @@
 package Object;
-
+//start - fieldSet - turnEnd
 public class Player {
 	private boolean playerTurn=false;
+
 	void start(){
 		this.playerTurn=true;
 	}
+
 	void fieldSet(int[][] field,int n){
 //		if()
 		switch(n){
@@ -13,6 +15,7 @@ public class Player {
 			default:break;
 		}
 	}
+
 	void turnEnd(){
 		this.playerTurn=false;
 	}

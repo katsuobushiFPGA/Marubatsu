@@ -24,17 +24,17 @@ public class Judge {
 		 return 0;
 	}
 	/*
-	 * 0:ˆø‚«•ª‚¯
-	 * 1:ˆø”1‚ªŸ‚¿
-	 * 2:ˆø”2‚ªŸ‚¿
+	 * 0:å¼•ãåˆ†ã‘
+	 * 1:1ç•ªç›®ã®å¼•æ•°ãŒå‹ã¡
+	 * 2:2ç•ªç›®ã®å¼•æ•°ãŒå‹ã¡
 	 */
 	int WnLeJudge(Player p1,Player p2){
 		return 0;
 	}
 
 	/*
-	 * ‚»‚ë‚Á‚Ä‚¢‚éŒÂŠ‚ğ’²‚×‚éB
-	 * ƒpƒ^[ƒ“ƒ}ƒbƒ`ƒ“ƒO
+	 * ãã‚ã£ã¦ã„ã‚‹ã‹ã®ã‚µãƒ¼ãƒ
+	 *
 	 */
 	boolean BingoSearch(int[][] field){
 		return false;
